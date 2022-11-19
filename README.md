@@ -38,9 +38,6 @@
   <li>
     Its consumer API was done in a basic way, focusing more on feign concepts.
   </li>
-  <li>
-    Its responsiveness is applied according to all screen sizes.
-  </li>
 </ul>
 
 <h5>Goals:</h5><br>
